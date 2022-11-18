@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @kartik3112
-- 👀 I’m interested in PHP, Python, Golang, Vue.js
+- 👋 Hi, I’m Kartik S Prajapti - @kartik3112
+- 👀 I’m interested in PHP, Python, Vue.js
 - 🌱 I’m currently learning Golang
+- ❓  Ask me about PHP & Laravel
 - 💞️ I’m looking to collaborate on Hackathons, Blogs, DevRel, DevAdvocate
 - 📫 How to reach me
   - Twitter - https://twitter.com/kartik_3112
