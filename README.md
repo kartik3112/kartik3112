@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kartik S Prajapti - @kartik3112
+- 👋 Hi, I’m Kartik S Prajapti - [@kartik3112](https://github.com/kartik3112)
 - 👀 I’m interested in PHP, Python, Vue.js
 - 🌱 I’m currently learning Golang
 - ❓  Ask me about PHP & Laravel
